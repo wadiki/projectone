@@ -13,4 +13,14 @@ def div(x,y):
 def cuadrado(x):
     return x*x
 
+def suma2(x):
+    return x+2
+
+def resta2(x):
+    return x-2
+
+
+
+
+
 
